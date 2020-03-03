@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application1</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="persegi">Persegi</string>
+    <string name="name">Syahuda Nahatmasuni</string>
+    <string name="about">about</string>
+    <string name="share">Perhitungan dari hasil %1$d dan lebar %2$d mempunyai luas %3$d dan keliling %4$d</string>
+    <string name="share1">Share1</string>
+    <string name="panjang">Panjang</string>
+    <string name="lebar">Lebar</string>
+    <string name="luasPP">0</string>
+    <string name="kelilingPP">0</string>
+</resources>
